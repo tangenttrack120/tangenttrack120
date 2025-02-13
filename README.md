@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tangenttrack120
 - 👀 I’m interested in web development, cyber security, and artificial intelligence
-- 🌱 I’m currently learning front-end web development
+- 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 You can contact me by
