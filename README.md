@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tangenttrack120
-- 👀 I’m interested in web development, cyber security, and artificial intelligence
-- 🌱 I’m currently learning fullstack web development
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 You can contact me by
+- Hi, I’m @tangenttrack120 you can call me Richard
+- I’m interested in web development, mobile app development, cyber security, and artificial intelligence
+- I’m currently learning fullstack web development
+- I’m willing to collaborate on web and mobile app development projects
+- You can contact me by email
